@@ -6,6 +6,7 @@ Markowitz's mean-variance optimization is a mathematical framework for selecting
 
 # Project Structure
 The project is structured as follows:
+
 Data Collection: Historical price data of 3 months has been collected of 10 stocks using investing.com. 
 The stocks are TVEL, ADAN, INFY, SBI, ICBK, ITC, YESB, ZOMT, RYMD, VODA
 
